@@ -9,6 +9,9 @@
 
 - ⚡ Frontend Mentor Profile **https://www.frontendmentor.io/profile/oguzhansenokur**
 
+<div align="center">
+  <img src="https://wakatime.com/badge/user/e9ff726e-c61a-46b7-858b-a5e4432abfcd.svg" />
+  </div>
 <p align="left">
 </p>
 
